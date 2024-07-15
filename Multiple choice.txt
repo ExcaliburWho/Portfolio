@@ -1,0 +1,45 @@
+1. 1066   2. 1455
+1. Rosalind Franklin   2. Marie Curie
+1. Newfoundland   2. Roanoke
+1. 1989   2. 1945
+1. Columbus   2. Magellan
+1. Ausria-Hungary   2. Yugoslavia   3. Prussia
+1. Nixon   2. Kennedy   3. Lincoln
+1. Antony   2. Sulla   3. Marius
+1. Lionheart   2. Rufus   3. Lackland
+1. Alexander II   2. Peter I   3. Nicholas II
+1. Caesar   2. Augustus   3. Nero   4. Tiberius
+1. Pickleball   2. Lawn Tennis   3. PingPong   4. Squash
+1. Thomson   2. Campbell   3. Tyndale   4. Wycliffe
+1. Aztec   2. Mesopotamian   3. Mayan   4. Babylonian
+1. Claudius   2. Titus   3. Sulla   4. Constantine I
+1. Vacation   2. Holiday
+1. Jailhouse Rock   2. Heartbreak Hotel
+1. Beethoven   2. Bach
+1. Aristotle   2. Galileo
+1. Love & Hip Hop   2. Love Island
+1. Berry Gordan 2. Edward Easton   3. William Paley
+1. Eskew Reeder   2. Billy Wright   3. Little Richard
+1. Crying in the Rain   2. Take On Me   3. Hunting High and Low
+1. Aqua   2. Buggles   3. The Weather Girls
+1. Tim McGraw   2. Garth Brooks   3. Dolly Parton
+1. Chris Hemsworth   2. Jeremy Renner   3. Brie Larson   4. Scarlett Johansson
+1. Civil War   2. Black Panther 3. Spiderman   4. Doctor Strange
+1. Flute   2. Guitar   3. Drums   4. Recorder
+1. Cher   2. Eminem   3. Madonna   4. Johnny Cash
+1. Jackie Frost   2. Sandie West   3. Lita Ford   4. Joan Jett
+1. Local Ariel Network   2. Local Area Network
+1. Notepad   2. Word
+1. HTTP   2. PHP
+1. Phishing   2. Trojan Horse
+1. Spam   2. Junk Mail
+1. Optic Fibre   2. Data Rate   3. Bandwidth
+1. Restart   2. Reboot   3. Reset
+1. Gargantuan   2. Odysseus   3. Colossus
+1. Joint Photographic Group   2. Joint Pixel Graph   3. Joint Photographic Graph
+1. Wireless Finish   2. Wireless Fidelity   3. Without Fibre
+1. Pasko   2. Hruby   3. Fix   4. McAfee
+1. Renaissance   2. Mosaic   3. Abstract   4. Portrait
+1. Synthetic   2. Simple   3. Symbolic   4. Safe
+1. 5 Billion   2. 6 Billion   3. 4 Billion   4. 2 Billion
+1. Universal Sample Bandwidth   2. Unified Simple Bus   3. Universal Sanctioned Bit   4. Universal Serial Bus
